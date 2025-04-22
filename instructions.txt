@@ -1,0 +1,14 @@
+This project is compatible with Windows10.
+To run the source code you will need to install Webots. We also advise to use PyCharm.
+In PyCharm open the project folder, set-up Webots and install the following Python modules:
+(We are using python version = 3.12)
+- numpy (0.29.1)
+- gymnasium (1.26.2)
+- stablebaselines3 2.3.2
+- tensorflow (2.16.1)
+- tensorboard (2.16.2)
+- torch (2.3.1)
+
+To test the best model:
+-If you test on the given maps, you just need to run the testing.py
+-If you want to use other map, you need to give the name "robot" to the e-puck Node. on DEF: write "robot".
