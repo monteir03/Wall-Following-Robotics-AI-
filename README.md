@@ -19,14 +19,6 @@ The experiments were conducted using an **e-puck robot** equipped with:
 
 ---
 
-# 🖥️ Compatibility
-
-This project is compatible with:
-
-* **Windows 10**
-
----
-
 # 🛠️ Required Software
 
 To run the project, you need to install:
